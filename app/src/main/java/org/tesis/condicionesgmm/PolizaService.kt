@@ -3,15 +3,15 @@ package org.tesis.condicionesgmm
 import retrofit2.Call
 import retrofit2.http.*
 
-class PolizaService {
+interface PolizaService {
 
 
-    @POST("api/cliente")
-    fun guardarCliente(@Body cliente: Cliente): Call<Estatus>
+     @POST("api/cliente")
+     fun guardarCliente(@Body cliente: Poliza): Call<Estatus>
 
     //Servicio REST para actualizar un cliente por su ident
     @PUT("api/cliente")
-    fun actualizarCliente(@Body cliente: Cliente): Call<Estatus>
+    fun actualizarCliente(@Body cliente: Poliza): Call<Estatus>
 
     // Servicio REST para borrar un cliente por su ident
     @DELETE("api/cliente/{ident}")
@@ -19,6 +19,7 @@ class PolizaService {
 
     //Servicio REST para buscar un cliente por su ident
     @GET("api/cliente/{ident}")
-    fun buscarCliente(@Path("ident") ident:Int?): Call<Cliente>
+    fun buscarCliente(@Path("ident") ident:Int?): Call<Poliza>
+
 
 }
