@@ -1,6 +1,11 @@
 h2{
-    color:darkmagenta;
+    color:dodgerblue;
     text-align: center;
+
+}
+h4{
+    color:dodgerblue;
+
 
 }
 .centrar{
@@ -11,5 +16,6 @@ width:80%;
 
 }
 p{
+    color:dodgerblue;
     text-align: justify;
 }
