@@ -1,10 +1,10 @@
-package org.tesis.condicionesgmm.ui.home
+package org.tesis.condicionesgmm.ui.condiciones
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class HomeViewModel : ViewModel() {
+class CondicionesViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
         value = "This is home Fragment"
