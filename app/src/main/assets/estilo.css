@@ -15,7 +15,10 @@ margin-right:auto;
 width:80%;
 
 }
-p{
+.letra{
     color:dodgerblue;
     text-align: justify;
+}
+.justificar{
+margin-left: 15px;
 }
