@@ -40,8 +40,6 @@
 
 ![](.README_images/6107a9fc.png)
 
-![image](.README_images/image.png)
-
 9-.Una vez que generamos el Navigation , nos genera carpetas con cada uno de los layouts, el cual podemos renombrar para un mejor trabajo y programación.
 
 ![](.README_images/d2818798.png)
@@ -66,7 +64,28 @@
 
 ![](.README_images/702cf7f2.png)
 
-15-.Colocamos el texto en
+
+# Creación del BACK END para generación de una base de datos y extraer la información de las pólizas.
 
 
+1-.En el IntelliJIDEA creamos nuestras entidades para el mapeo de nuestros objetos que utilizaremos para homologar los que se craron en Android Studio.
 
+![image_1](.README_images/image_1.png) ![image_2](.README_images/image_2.png)
+
+2-.Generamos la clase Póliza
+
+![image_5](.README_images/image_5.png)  ![image_6](.README_images/image_6.png)
+
+3-.Generamos la clase dependientes
+
+![image_3](.README_images/image_3.png) ![image_4](.README_images/image_4.png)
+
+4-.Generamos la clase Estatus
+
+![image_7](.README_images/image_7.png)  ![image_8](.README_images/image_8.png)
+
+5-.Generamos la clase ControladorCondiciones el cual servirá para hacer las búsquedas de las pólizas, insertar etc
+
+![image_9](.README_images/image_9.png)  ![image_11](.README_images/image_11.png)
+
+![image_10](.README_images/image_10.png)
