@@ -38,10 +38,9 @@
 
 8.1. Para que podamos acomodar el texto que irá en el webview de forma "justificada" así como color de letra, tabuladores, etc, declaramos las variables que ocuparemos en la parte de estilos,misma que se encuentra dentro de la carpeta ASSETS
 
-gggddg
+![](.README_images/6107a9fc.png)
 
-![](.README_images/331cc781.png)
-
+![image](.README_images/image.png)
 
 9-.Una vez que generamos el Navigation , nos genera carpetas con cada uno de los layouts, el cual podemos renombrar para un mejor trabajo y programación.
 
