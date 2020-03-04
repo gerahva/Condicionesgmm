@@ -86,6 +86,7 @@
 
 5-.Generamos la clase ControladorCondiciones el cual servirá para hacer las búsquedas de las pólizas, insertar etc
 
-![image_9](.README_images/image_9.png)  ![image_11](.README_images/image_11.png)
+![image_9](.README_images/image_9.png)  
+![image_11](.README_images/image_11.png)
 
 ![image_10](.README_images/image_10.png)
