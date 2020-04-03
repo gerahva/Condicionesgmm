@@ -11,7 +11,7 @@
 ![](.README_images/251ae78f.png)
 
 ![image_12](.README_images/image_12.png)
-
+![image_13](.README_images/image_13.png)
 
 
 3.,Generamos la clase Dependientes para los asegurados Titulares
