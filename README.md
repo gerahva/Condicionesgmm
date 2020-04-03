@@ -10,6 +10,10 @@
 
 ![](.README_images/251ae78f.png)
 
+![image_12](.README_images/image_12.png)
+
+
+
 3.,Generamos la clase Dependientes para los asegurados Titulares
 
 ![](.README_images/d3047458.png)
@@ -75,6 +79,7 @@
 2-.Generamos la clase Póliza
 
 ![image_5](.README_images/image_5.png)  ![image_6](.README_images/image_6.png)
+
 
 3-.Generamos la clase dependientes
 
