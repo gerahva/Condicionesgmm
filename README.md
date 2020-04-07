@@ -96,4 +96,21 @@
 
 ![image_11](.README_images/image_11.png)
 
+6-.Descargamos la app de POSTMAN la cual nos servirá para generar los servicios REST que hemos creado previamente en la clase ControladorCondiciones
+
+![image_15](.README_images/image_15.png)
+
+7-. Corremos el programa previamente para poder ejecutar los servicios REST.
+
+![image_16](.README_images/image_16.png)
+
+7-.Una vez que se ha descargamos, ingresamos con una cuenta previamente creada y guardamos la información en un json mediante el método POST
+
+![image_17](.README_images/image_17.png)
+
+8-.Con el método GET obtenemos todos los asegurados que hemos guardado en nuestra base de datos.
+
+![image_18](.README_images/image_18.png)
+
+![image_19](.README_images/image_19.png)
 
