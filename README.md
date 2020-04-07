@@ -76,6 +76,7 @@
 2-.Generamos la clase Póliza
 
 ![image_12](.README_images/image_12.png)
+![image_14](.README_images/image_14.png)
 
 ![image_6](.README_images/image_6.png)
 
